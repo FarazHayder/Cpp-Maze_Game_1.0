@@ -35,4 +35,4 @@ g++ MazeGame.cpp -o MazeGame
 Contributions to this project are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ## Author
-This Maze Game C++ program was created by @FarazHayder.
+This Maze Game C++ program was created by Faraz Hayder.
